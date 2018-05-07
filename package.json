@@ -1,0 +1,27 @@
+{
+  "name": "dsgfbdfbdfb",
+  "version": "1.0.0",
+  "description": "Nightlife Coordination App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "yntymak karagulov",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "^1.4.1",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-twitter": "^1.0.4",
+    "request": "^2.81.0"
+  }
+}
